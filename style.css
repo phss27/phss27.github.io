@@ -1,0 +1,16 @@
+/*
+Theme Name: Portfólio
+Theme URI: http://phsolucoesmktdigital.com
+Author: Paulo Henrique de Souza
+Author URI: http://phsolucoesmktdigital.com
+Description: Tema criado para portfólio.
+Version: 1.0
+*/
+
+@import "./css/global.css";
+@import "./css/header.css";
+@import "./css/introducao.css";
+@import "./css/experiencia.css";
+@import "./css/formacao.css";
+@import "./css/footer.css";
+@import "./css/projetos.css";
